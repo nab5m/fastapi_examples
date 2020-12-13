@@ -1,0 +1,35 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+aiofiles=0.6.0=py37hecd8cb5_0
+ca-certificates=2020.12.8=hecd8cb5_0
+certifi=2020.12.5=py37hecd8cb5_0
+click=7.1.2=pyh9f0ad1d_0
+fastapi=0.62.0=pyhd8ed1ab_0
+h11=0.11.0=pyh9f0ad1d_0
+httptools=0.1.1=py37he6e4e01_1
+libcxx=10.0.0=1
+libedit=3.1.20191231=h1de35cc_1
+libffi=3.3=hb1e8313_2
+ncurses=6.2=h0a44026_1
+openssl=1.1.1i=h9ed2024_0
+pip=20.3.1=py37hecd8cb5_0
+pydantic=1.7.3=py37he6e4e01_0
+python=3.7.9=h26836e1_0
+python-dotenv=0.15.0=pyhd8ed1ab_0
+python_abi=3.7=1_cp37m
+pyyaml=5.3.1=py37h395d20d_1
+readline=8.0=h1de35cc_0
+setuptools=51.0.0=py37hecd8cb5_2
+sqlite=3.33.0=hffcf06c_0
+starlette-base=0.13.6=py_0
+tk=8.6.10=hb0a8c7a_0
+typing_extensions=3.7.4.3=py_0
+uvicorn=0.13.1=py37hf985489_0
+uvloop=0.14.0=py37he6e4e01_2
+watchgod=0.6=py_0
+websockets=8.1=py37h60d8a13_2
+wheel=0.36.1=pyhd3eb1b0_0
+xz=5.2.5=h1de35cc_0
+yaml=0.2.5=haf1e3a3_0
+zlib=1.2.11=h1de35cc_3
